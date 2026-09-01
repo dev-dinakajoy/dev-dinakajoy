@@ -22,32 +22,10 @@ I believe the best way to learn testing is to **practice, document, break things
 - API Testing
 - SQL & Database Testing
 - Test Automation
+- Git & GitHub
+- Real-World QA Projects
 
 ---
-
-## My QA Learning Journey
-
-I'm documenting everything I learn and practice in my repositories.
-
-**Current roadmap:**
-
-```text
-Manual QA
-    ↓
-Test Documentation
-    ↓
-Web Application Testing
-    ↓
-API Testing
-    ↓
-SQL / Database Testing
-    ↓
-Git & GitHub
-    ↓
-Test Automation
-    ↓
-Real-World QA Projects
-```
 
 ## What You'll Find on My GitHub
 
@@ -67,7 +45,7 @@ Real-World QA Projects
 
 > **Don't just learn QA. Practice it. Document it. Break things. Find bugs. Learn from them. Improve.**
 
-I'm using this GitHub profile as a public learning journal and portfolio so I can track my progress, demonstrate practical QA skills, and hopefully help other people who are beginning their own journey into software testing.
+This GitHub profile is my public learning journal and portfolio so I can track my progress, demonstrate practical QA skills, and hopefully help other people who are beginning their own journey into software testing.
 
 ## Current Goal
 
