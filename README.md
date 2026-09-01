@@ -1,61 +1,66 @@
-# Hi there, I'm Joy Odinaka 👋
+# Hi, I'm Joy Odinaka 👋
 
-## QA Tester | Manual Testing → API Testing → Automation
+### Software Developer → QA Engineer | Software Testing • Quality Engineering
 
-I'm building my career in **Quality Assurance (QA)** and using GitHub to document my journey from learning the fundamentals to becoming a job-ready QA tester.
+I'm a **Software Developer with 4+ years of experience**, transitioning into **Software Quality Assurance**.
 
-I believe the best way to learn testing is to **practice, document, break things, find bugs, and learn from them.**
+After years of building and debugging software, I'm now focusing on **testing, finding defects, validating requirements, and improving software quality**.
 
----
-
-## What I'm Currently Learning
-
-- Manual Software Testing
-- Test Cases & Test Scenarios
-- Bug Reporting & Defect Lifecycle
-- Regression, Smoke & Sanity Testing
-- Exploratory Testing
-- Test Planning & Test Documentation
-- SDLC & STLC
-- Agile / Scrum
-- Web Application Testing
-- API Testing
-- SQL & Database Testing
-- Test Automation
-- Git & GitHub
-- Real-World QA Projects
+> **Build it. Test it. Break it. Improve it.**
 
 ---
 
-## What You'll Find on My GitHub
+## What I'm Doing
 
-- Test cases
-- Bug reports
-- Test scenarios
-- Test plans
-- Exploratory testing notes
-- Web testing projects
-- API testing exercises
-- SQL practice
-- Automation projects
-- QA learning notes
-- My progress and lessons learned
+Currently building hands-on experience in:
 
-## My Learning Philosophy
+* Manual Testing & Test Design
+* Functional & Exploratory Testing
+* Test Cases & Bug Reporting
+* Web Application Testing
+* API Testing
+* SQL & Database Testing
+* Test Automation with Playwright
+* CI/CD & Continuous Testing
 
-> **Don't just learn QA. Practice it. Document it. Break things. Find bugs. Learn from them. Improve.**
+---
 
-This GitHub profile is my public learning journal and portfolio so I can track my progress, demonstrate practical QA skills, and hopefully help other people who are beginning their own journey into software testing.
+## My QA Journey
 
-## Current Goal
+I'm documenting my transition from Software Development to QA through practical learning, testing exercises, and projects.
 
-Become a professional QA Tester and build strong practical experience through continuous learning and hands-on projects.
+👉 **[QA Learning Journey](https://github.com/dev-dinakajoy/qa-learning-journey)**
 
-## I'm Open To
-- Connecting with other QA testers and developers
-- Collaborating on testing projects
-- Learning from experienced QA professionals
-- QA internship and junior QA opportunities
-- Sharing what I learn with other beginners
+You will find:
 
-⭐ Follow my journey as I learn, test, break, discover, and improve.
+**Test Cases · Bug Reports · Test Scenarios · QA Notes · API Testing · SQL · Automation · Testing Projects**
+
+---
+
+## Tech & Tools
+
+`JavaScript` `TypeScript` `Git` `GitHub` `SQL` `Postman` `Playwright` `Jira` `GitHub Actions` `Python`
+
+**Testing:** Manual Testing · Functional Testing · Regression · Smoke · Sanity · Exploratory Testing · Test Design
+
+---
+
+## Currently
+
+**Learning:** QA Engineering, API Testing, SQL & Test Automation
+
+**Building:** Practical QA projects and documenting my learning journey
+
+**Looking for:** QA opportunities, collaborations, and connections with developers and QA professionals.
+
+---
+
+## Let's Connect
+
+**LinkedIn:** [dev-dinakajoy](https://www.linkedin.com/in/dev-dinakajoy)
+
+I am always happy to connect with people interested in **software development, software testing, and quality engineering**.
+
+---
+
+> **Don't just ask, "Does it work?" Ask, "How can it fail?"**
