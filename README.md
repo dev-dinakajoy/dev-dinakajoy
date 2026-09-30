@@ -10,21 +10,6 @@ After years of building and debugging software, I'm now focusing on **testing, f
 
 ---
 
-## What I'm Doing
-
-Currently building hands-on experience in:
-
-* Manual Testing & Test Design
-* Functional & Exploratory Testing
-* Test Cases & Bug Reporting
-* Web Application Testing
-* API Testing
-* SQL & Database Testing
-* Test Automation with Playwright
-* CI/CD & Continuous Testing
-
----
-
 ## My QA Journey
 
 I'm documenting my transition from Software Development to QA through practical learning, testing exercises, and projects.
@@ -39,15 +24,15 @@ You will find:
 
 ## Tech & Tools
 
-`JavaScript` `TypeScript` `Git` `GitHub` `SQL` `Postman` `Playwright` `Jira` `GitHub Actions` `Python`
+`JavaScript` `TypeScript` `Python` `Git` `GitHub` `SQL` `Postman` `Playwright` `Jira` `GitHub Actions` 
 
-**Testing:** Manual Testing · Functional Testing · Regression · Smoke · Sanity · Exploratory Testing · Test Design
+**Testing:** Manual Testing · Automated Testing ·Functional Testing · Regression · Smoke · Sanity · Exploratory Testing · Test Planning · Test Design
 
 ---
 
 ## Currently
 
-**Learning:** QA Engineering, API Testing, SQL & Test Automation
+**Learning:** QA Engineering, API Testing, SQL/Database Testing & Test Automation
 
 **Building:** Practical QA projects and documenting my learning journey
 
@@ -58,9 +43,7 @@ You will find:
 ## Let's Connect
 
 **LinkedIn:** [dev-dinakajoy](https://www.linkedin.com/in/dev-dinakajoy)
+**X(Twitter):** [dev_dinakajoy](https://x.com/dev_dinakajoy)
+**DevTo:** [dev-dinakajoy](https://dev.to/dev-dinakajoy)
 
 I am always happy to connect with people interested in **software development, software testing, and quality engineering**.
-
----
-
-> **Don't just ask, "Does it work?" Ask, "How can it fail?"**
