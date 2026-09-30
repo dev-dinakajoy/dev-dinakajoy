@@ -42,8 +42,8 @@ You will find:
 
 ## Let's Connect
 
-**LinkedIn:** [dev-dinakajoy](https://www.linkedin.com/in/dev-dinakajoy)
-**X(Twitter):** [dev_dinakajoy](https://x.com/dev_dinakajoy)
-**DevTo:** [dev-dinakajoy](https://dev.to/dev-dinakajoy)
+**LinkedIn:** [dev-dinakajoy](https://www.linkedin.com/in/dev-dinakajoy)  
+**X(Twitter):** [dev_dinakajoy](https://x.com/dev_dinakajoy)  
+**DevTo:** [dev-dinakajoy](https://dev.to/dev-dinakajoy)  
 
 I am always happy to connect with people interested in **software development, software testing, and quality engineering**.
